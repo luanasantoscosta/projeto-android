@@ -1,0 +1,168 @@
+* 
+{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'idroid';
+  src: url('fontes/idroid.otf') format('opentype');
+  
+}
+body 
+{
+  
+  background-color: #89c289; 
+  font-size: 20px;
+  padding: 0%;
+
+}
+.principal
+{
+  font-family: 'idroid';
+  padding: 10px;
+  color: #042704dc;
+  margin: 10px;
+  
+}
+header
+{
+  background-image: radial-gradient(circle,#6ba15cc2, #032703f3); 
+  padding: 10px;
+  margin: 0px;
+  font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+
+}
+.cabeca 
+{
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.863);
+  
+  
+}
+nav 
+{
+  text-align-last: left;
+  padding: 6px;
+}
+h3 
+{
+  background-color: #3e5c3e;
+  color: #def0c6;
+  font-size: 38px;
+  border-top-left-radius: 8px;
+   border-top-right-radius: 8px;
+}
+.extra
+{
+  background-color:  #89c289;
+  border-radius: 8px;
+  padding: 0px;
+  text-indent: 4px;
+  text-align: justify;
+}
+p
+{
+  text-align: justify;
+  text-indent: 10px;
+  padding: 8px;
+}
+.final
+{
+  background-color: #0b330bbd;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: #89c289;
+  margin-top: 14px;
+}
+main
+{
+  background-color: #ffffff;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  margin-top: 0px;
+  margin-left: 480px;
+  margin-right: 480px;
+  margin: auto;
+  min-width: 280px;
+  max-width: 900px;
+
+  
+}
+nav a 
+{
+  color: #ffffff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-decoration: none;
+}
+.parag 
+{
+  text-align: center;
+}
+nav > a:hover
+{
+  background-color: #72ad8b93;
+  border-radius: 8px;
+  padding: 4px;
+}
+h2 
+{
+  background-image: linear-gradient(to right, rgba(25, 180, 25, 0.692), white);
+}
+
+main article
+{
+  padding: 10px;
+}
+header div 
+{
+  padding: 10px;
+}
+ul
+{
+  text-indent: 20px;
+  columns: 2;
+}
+main img
+{
+  width: 100%;
+}
+iframe
+{
+  margin: auto;
+  display: block;
+}
+footer
+{
+  padding-top: 8px;
+}
+#pequena
+{
+  max-width: 350px;
+  margin: auto;
+  display: block;
+}
+footer a
+{
+  color: chartreuse;
+  font-size: 26px;
+  text-decoration: black;
+}
+article a 
+{
+  color: rgb(1, 31, 1);
+  border-radius: 4px;
+  background-color: rgba(22, 228, 22, 0.479);
+  text-decoration: none;
+  padding: 2px;
+}
+article a:hover
+{
+  text-decoration: underline;
+}
+
+
+

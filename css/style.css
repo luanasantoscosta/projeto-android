@@ -130,11 +130,6 @@ main img
 {
   width: 100%;
 }
-iframe
-{
-  margin: auto;
-  display: block;
-}
 footer
 {
   padding-top: 8px;
@@ -162,6 +157,19 @@ article a
 article a:hover
 {
   text-decoration: underline;
+}
+p#video
+{
+  text-align: center;
+  margin:auto;
+  padding: 0px;
+  background-color: #89c289;
+  position: relative;
+}
+p iframe
+{
+  padding: 40px;
+  display: flexbox;
 }
 
 
